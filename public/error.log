@@ -1,0 +1,1 @@
+[02-Dec-2019 19:16:51 UTC] PHP Fatal error:  Declaration of Symfony\Component\Translation\TranslatorInterface::setLocale($locale) must be compatible with Symfony\Contracts\Translation\LocaleAwareInterface::setLocale(string $locale) in D:\Winginx\www\ust\vendor\symfony\translation\TranslatorInterface.php on line 24
