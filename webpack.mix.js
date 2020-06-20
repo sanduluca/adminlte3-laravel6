@@ -190,8 +190,8 @@ mix.copyDirectory('./node_modules/moment/locale', 'public/plugins/moment/locale'
 mix.copyDirectory('./node_modules/moment/min', 'public/plugins/moment');
 
 //overlayScrollbars
-mix.copyDirectory('./node_modules/overlayScrollbars/js', 'public/plugins/overlayScrollbars/js');
-mix.copyDirectory('./node_modules/overlayScrollbars/css', 'public/plugins/overlayScrollbars/css');
+mix.copyDirectory('./node_modules/overlayscrollbars/js', 'public/plugins/overlayScrollbars/js');
+mix.copyDirectory('./node_modules/overlayscrollbars/css', 'public/plugins/overlayScrollbars/css');
 
 //pace-progress
 mix.copyDirectory('./node_modules/@lgaitan/pace-progress/dist', 'public/plugins/pace-progress');
